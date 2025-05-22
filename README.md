@@ -1,4 +1,4 @@
-This repository contains all the .pbix files for the tutorial articles on [my website](https://powerbib.super.site/ "PowerLib").
+This repository contains all the .pbix files for the tutorial articles on [my website](https://powerbib.super.site/).
 
 Please note that these files are provided for educational purposes only and are not intended for commercial use. 
 If you find these tutorials helpful, attribution would be appreciated.
